@@ -134,7 +134,8 @@ theme = "loveit"
       gravatarEmail = ""
       # 主页显示头像的 URL
       #avatarURL = "images/avatar.png"
-      avatarURL = "https://qiniu.oneone.life/img/avatar.png"
+      #avatarURL = "https://qiniu.oneone.life/img/avatar.png"
+      avatarURL = "https://qiniu.oneone.life/img/avatar02.png"
       #  主页显示的网站标题 (支持 HTML 格式)
       title = "易娃的杂货铺"
       # 主页显示的网站副标题
