@@ -333,9 +333,9 @@ theme = "loveit"
         clientSecret = ""
       # Valine 评论系统设置
       [params.page.comment.valine]
-        enable = false
-        appId = ""
-        appKey = ""
+        enable = true
+        appId = "o5gq6eLbupSlKq678zx1aKcd-gzGzoHsz"
+        appKey = "S2CU3haJIhCbfVoIxhtrIzNp"
         placeholder = ""
         avatar = "mp"
         meta= ""
@@ -374,7 +374,7 @@ theme = "loveit"
         enable = false
       #  Utterances 评论系统设置
       [params.page.comment.utterances]
-        enable = true
+        enable = false
         # owner/repo
         repo = "AlexWuYh/hugoblogtalks"
         issueTerm = "pathname"
@@ -430,10 +430,10 @@ theme = "loveit"
 
   #  网站分析配置
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "G-KJGDZS4RKJ"
       # 是否匿名化用户 IP
       anonymizeIP = true
     # Fathom Analytics
