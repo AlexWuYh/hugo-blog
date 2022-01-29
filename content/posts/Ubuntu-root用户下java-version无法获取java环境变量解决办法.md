@@ -2,7 +2,7 @@
 title: Ubuntu root用户下java -version无法获取java环境变量解决办法
 date: 2020-02-24 22:49:27
 tags:
-    - ubuntu
+    - Linux
 categories:
     - Linux
 ---
