@@ -1,11 +1,12 @@
 ---
 title: Linux系统启动过程
-date: 2022-01-29 14:19:41
+date: 2022-02-29 14:51:36
 tags:
     - Linux
 categories:
     - Linux
 ---
+
 
 Linux 系统启动过程linux启动时我们会看到许多启动信息。
 Linux系统的启动过程并不是大家想象中的那么复杂，其过程可以分为5个阶段：
