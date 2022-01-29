@@ -1,6 +1,6 @@
 ---
 title: Linux系统启动过程
-date: 2022-02-29 14:51:36
+date: 2022-01-29
 tags:
     - Linux
 categories:
