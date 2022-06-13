@@ -42,8 +42,8 @@ interact
 
 3. 然后再iterm2中新建中断时选择该profile即可自动登录打开回话
 
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/770522/1655116089839-ca4384e8-301b-409a-9139-4e73e4412685.png#clientId=u301c5db0-e090-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=367&id=u9aa4daaf&name=image.png&originHeight=734&originWidth=1968&originalType=binary&ratio=1&rotation=0&showTitle=false&size=432353&status=done&style=none&taskId=ub9620873-2185-4f58-893b-23f0f8df55b&title=&width=984)
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/770522/1655116302550-2f2e5d92-e719-4132-b274-220477e59d37.png#clientId=u301c5db0-e090-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=374&id=u9fb0cbe6&name=image.png&originHeight=748&originWidth=1570&originalType=binary&ratio=1&rotation=0&showTitle=false&size=322497&status=done&style=none&taskId=u9a694339-236d-4a4c-ba77-6ce7b3a7f0a&title=&width=785)
+![](https://raw.githubusercontent.com/alexwuyh/pic-host/master/photo/20220613192259.png)
+![](https://raw.githubusercontent.com/alexwuyh/pic-host/master/photo/20220613191920.png)
 
 ## 方案三、sshpass免密登录
 ### 安装sshpass
