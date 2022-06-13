@@ -1,6 +1,6 @@
 ---
 title: kvm虚拟机扩充根目录容量(lvm卷)
-date: 2022-06-10 17:41:41
+date: 2022-06-10
 tags:
     - Linux
 categories:

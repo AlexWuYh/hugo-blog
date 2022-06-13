@@ -1,6 +1,6 @@
 ---
 title: brew update时报错“fatal_ Could not resolve HEAD to a revision”解决
-date: 2022-06-10 17:41:41
+date: 2022-06-10
 tags:
     - MacOS
     - brew
