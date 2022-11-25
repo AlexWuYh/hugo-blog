@@ -416,11 +416,11 @@ theme = "loveit"
 
   # 网站验证代码，用于 Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
-    google = ""
+    google = "hEcQ6nEr41mGdKm5NvLM-M13MAox_EMIqc5f6Lz2cbY"
     bing = ""
     yandex = ""
     pinterest = ""
-    baidu = ""
+    baidu = "code-xRAT9UnTv5"
 
   #  网站 SEO 配置
   [params.seo]
