@@ -201,6 +201,7 @@ theme = "loveit"
     Skype = ""
     Whatsapp = ""
     Zhihu = "wu_yh"
+    Yuque = "wuyiwa"
     Douban = ""
     Angellist = ""
     Slidershare = ""
@@ -220,7 +221,7 @@ theme = "loveit"
     Matrix = ""
     Bilibili = ""
     Email = "alex.wuyinghao@gmail.com"
-    RSS = true # 
+    RSS = true #
 
   #  文章页面配置
   [params.page]
