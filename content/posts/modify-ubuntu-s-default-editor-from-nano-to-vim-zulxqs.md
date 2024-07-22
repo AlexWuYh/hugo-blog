@@ -1,7 +1,6 @@
 ---
 title: 将ubuntu的默认编辑器从nano修改为vim
 slug: modify-ubuntu-s-default-editor-from-nano-to-vim-zulxqs
-url: /post/modify-ubuntu-s-default-editor-from-nano-to-vim-zulxqs.html
 date: '2024-06-17 19:12:42+08:00'
 lastmod: '2024-07-22 18:00:16+08:00'
 toc: true
