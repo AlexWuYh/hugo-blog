@@ -1,14 +1,13 @@
 ---
 title: git 使用技巧
 slug: git-use-skills-1kyiph
-url: /post/git-use-skills-1kyiph.html
-date: '2023-11-30 19:02:03'
-lastmod: '2023-11-30 19:24:12'
-toc: true
-isCJKLanguage: true
+date: 2023-11-30
+tags:
+    - Git
+categories:
+    - Git
 ---
 
-# git 使用技巧
 
 ## git log美化输出
 
@@ -18,7 +17,7 @@ git log --all --decorate --oneline --graph
 
 效果如下：
 
-​![image](https://cdn.jsdelivr.net/gh/alexwuyh/pic-host@master/photo/202311301924199.png)​
+​![image](https://imgup.oneone.life/app/hide.php?key=djY5SkhjeXV2cEpuMWkxNUZLdTMzUE5LYmwzTmpqRDBtNUk9)​
 
 ‍
 
