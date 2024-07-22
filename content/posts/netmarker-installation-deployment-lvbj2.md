@@ -1,7 +1,6 @@
 ---
 title: netmarker安装部署
 slug: netmarker-installation-deployment-lvbj2
-url: /post/netmarker-installation-deployment-lvbj2.html
 date: '2023-11-23 18:06:07+08:00'
 lastmod: '2024-07-22 18:37:40+08:00'
 toc: true
