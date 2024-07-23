@@ -76,7 +76,7 @@ theme = "loveit"
     #  页面头部导航栏标题配置
     [params.header.title]
       # LOGO 的 URL
-      logo = ""
+      logo = "https://imgup.oneone.life/app/hide.php?key=MmpRY3JkQ01LUWxXMFlEZllRNGxoenRCUy9iNUVHVThCaFE9"
       #logo = "https://qiniu.oneone.life/img/OneOne.png"
       # 标题名称
       name = "Simple Life"
@@ -233,7 +233,7 @@ theme = "loveit"
     #  是否使用 twemoji
     twemoji = false
     # 是否使用 lightgallery
-    lightgallery = false
+    lightgallery = true
     #  是否使用 ruby 扩展语法
     ruby = true
     #  是否使用 fraction 扩展语法
@@ -402,8 +402,8 @@ theme = "loveit"
       images = []
       # 出版者信息
       [params.page.seo.publisher]
-        name = ""
-        logoUrl = ""
+        name = "WUYH"
+        logoUrl = "https://imgup.oneone.life/app/hide.php?key=R2M2UHVFbUU1Uzc3cGN3OE9ObXRlUEx5SjdlWS9uOWowY2M9"
 
   #  TypeIt 配置
   [params.typeit]
