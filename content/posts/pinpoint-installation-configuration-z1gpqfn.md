@@ -1,9 +1,13 @@
 ---
 title: PinPoint安装配置
 slug: pinpoint-installation-configuration-z1gpqfn
-url: /post/pinpoint-installation-configuration-z1gpqfn.html
 date: '2023-11-23 18:05:51+08:00'
 lastmod: '2024-07-23 10:07:38+08:00'
+tags:
+    - PinPoint
+    - APM
+categories:
+    - PinPoint
 toc: true
 isCJKLanguage: true
 ---
