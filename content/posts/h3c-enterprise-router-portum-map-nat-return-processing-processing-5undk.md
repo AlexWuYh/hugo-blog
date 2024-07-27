@@ -1,8 +1,6 @@
 ---
 title: H3C企业路由器端口映射NAT回流问题处理
 slug: h3c-enterprise-router-portum-map-nat-return-processing-processing-5undk
-url: >-
-  /post/h3c-enterprise-router-portum-map-nat-return-processing-processing-5undk.html
 date: '2024-07-27 22:24:41+08:00'
 lastmod: '2024-07-27 22:27:11+08:00'
 toc: true
