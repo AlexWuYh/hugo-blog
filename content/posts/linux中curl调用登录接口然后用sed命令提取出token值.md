@@ -74,3 +74,8 @@ cat response.txt | xargs -I {} curl -v  --location --request POST 'http://xx.xx.
 - **当**接口返回状态为`HTTP 100 Continue`，这表示镜像文件正在上传中，耐心等待，直到文件上传完成即可
 
     ![](https://cdn.jsdelivr.net/gh/alexwuyh/pic-host@master/photo/202211161059420.png)
+
+
+---
+
+我的博客即将同步至腾讯云开发者社区，邀请大家一同入驻：https://cloud.tencent.com/developer/support-plan?invite_code=24be6fvhrt0ks
