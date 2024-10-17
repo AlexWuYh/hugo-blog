@@ -29,6 +29,7 @@ theme = "loveit"
   dateFormat = "2006-01-02"
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = ["/logo.png"]
+#images = ["https://imgup.oneone.life/app/hide.php?key=MmpRY3JkQ01LUWxXMFlEZllRNGxoenRCUy9iNUVHVThCaFE9"]
 
   #  应用图标配置
   [params.app]
