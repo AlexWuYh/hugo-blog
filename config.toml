@@ -400,7 +400,7 @@ theme = "loveit"
     #  页面 SEO 配置
     [params.page.seo]
       # 图片 URL
-      images = []
+      images = ["https://imgup.oneone.life/app/hide.php?key=MmpRY3JkQ01LUWxXMFlEZllRNGxoenRCUy9iNUVHVThCaFE9"]
       # 出版者信息
       [params.page.seo.publisher]
         name = "WUYH"
@@ -428,7 +428,7 @@ theme = "loveit"
   #  网站 SEO 配置
   [params.seo]
     # 图片 URL
-    image = "/logo.png"
+    image = "https://imgup.oneone.life/app/hide.php?key=MmpRY3JkQ01LUWxXMFlEZllRNGxoenRCUy9iNUVHVThCaFE9"
     # 缩略图 URL
     thumbnailUrl = ""
 
