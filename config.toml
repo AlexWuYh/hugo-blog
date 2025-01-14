@@ -428,7 +428,7 @@ theme = "loveit"
   #  网站 SEO 配置
   [params.seo]
     # 图片 URL
-    image = "logo.png"
+    image = "/logo.png"
     # 缩略图 URL
     thumbnailUrl = ""
 
